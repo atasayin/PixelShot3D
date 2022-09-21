@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2afdfa4afde384a3d8a5511d51c28296, type: 3}
+  m_Name: Color4CellAsset
+  m_EditorClassIdentifier: 
+  id: {fileID: 0}
+  menuName: Color 4
+  texture2D: {fileID: 2800000, guid: 0ec8f5103c1f245298a8679e458cb2c7, type: 3}
+  color: {r: 1, g: 0, b: 0.87058824, a: 1}
